@@ -1,8 +1,6 @@
 Flash
 =====
 
-Flash Interface
-
 General:
 A flash is a Non-Volatile and Read-Only type of memory, which is divided into basic units called 'Sectors'.
 In order to update data that is stored in the flash, each sector that contains the data must first be erased and then written again.
